@@ -1,0 +1,17 @@
+﻿  指定されたファイルが見つかりません。
+  指定されたファイルが見つかりません。
+  指定されたファイルが見つかりません。
+  指定されたファイルが見つかりません。
+  指定されたファイルが見つかりません。
+  指定されたファイルが見つかりません。
+  指定されたファイルが見つかりません。
+  指定されたファイルが見つかりません。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(123,5): error MSB3073: コマンド "copy "C:\Users\qqg49\source\repos\Wallpaper\ffmpeg\lib\avcodec-57.dll" "C:\Users\qqg49\source\repos\Wallpaper\Release\"
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(123,5): error MSB3073: copy "C:\Users\qqg49\source\repos\Wallpaper\ffmpeg\lib\avdevice-57.dll" "C:\Users\qqg49\source\repos\Wallpaper\Release\"
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(123,5): error MSB3073: copy "C:\Users\qqg49\source\repos\Wallpaper\ffmpeg\lib\avfilter-6.dll" "C:\Users\qqg49\source\repos\Wallpaper\Release\"
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(123,5): error MSB3073: copy "C:\Users\qqg49\source\repos\Wallpaper\ffmpeg\lib\avformat-57.dll" "C:\Users\qqg49\source\repos\Wallpaper\Release\"
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(123,5): error MSB3073: copy "C:\Users\qqg49\source\repos\Wallpaper\ffmpeg\lib\avutil-55.dll" "C:\Users\qqg49\source\repos\Wallpaper\Release\"
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(123,5): error MSB3073: copy "C:\Users\qqg49\source\repos\Wallpaper\ffmpeg\lib\postproc-54.dll" "C:\Users\qqg49\source\repos\Wallpaper\Release\"
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(123,5): error MSB3073: copy "C:\Users\qqg49\source\repos\Wallpaper\ffmpeg\lib\swresample-2.dll" "C:\Users\qqg49\source\repos\Wallpaper\Release\"
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(123,5): error MSB3073: copy "C:\Users\qqg49\source\repos\Wallpaper\ffmpeg\lib\swscale-4.dll" "C:\Users\qqg49\source\repos\Wallpaper\Release\"
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(123,5): error MSB3073: :VCEnd" はコード 1 で終了しました。
